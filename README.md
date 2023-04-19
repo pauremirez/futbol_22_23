@@ -27,6 +27,11 @@ https://github.com/pauremirez/futbol_22_23
 El proyecto que se os ha proporcionado contiene comentarios **// TODO numerados del 0 al 11** con las especificaciones de cada método a completar. 
 Revisad con atención toda la estructura del proyecto para no dejaros ninguna de las tareas por realizar.
 
+Se pueden utilizar los recursos que se consideren oportunos (apuntes, Internet...) 
+
+Cualquier copia detectada con otro compañero, supondrá la calificación de 0 para ambos.
+
+
 # ¿CÓMO SE REPARTE LA EVALUACIÓN DEL PROYECTO?
 
 |             | Criterios de evaluación - UT  |
