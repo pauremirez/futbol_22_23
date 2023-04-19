@@ -21,7 +21,8 @@ El diagrama de clases del proyecto a realizar es el que se muestra en la siguien
 # PUNTO DE PARTIDA
 Para la realización de este proyecto partiréis de un proyecto ya creado. NO tendréis que empezar un proyecto desde 0. Se os proporciona la estructura del mismo con la GUI ya creada. 
 El enlace para clonaros el proyecto en vuestros equipos es el siguiente:
-https://github.com/pauremirez/futbol_22_23
+- https://github.com/pauremirez/futbol_22_23 --> Para clonar manualmente el proyecto
+- https://classroom.github.com/a/RIeVkQBA --> Se clona de forma automática en vuestro repositorio
 
 # ¿CÓMO REALIZAR EL EXAMEN?
 El proyecto que se os ha proporcionado contiene comentarios **// TODO numerados del 0 al 11** con las especificaciones de cada método a completar. 
