@@ -23,8 +23,26 @@ Para la realización de este proyecto partiréis de un proyecto ya creado. NO te
 El enlace para clonaros el proyecto en vuestros equipos es el siguiente:
 https://github.com/pauremirez/futbol_22_23
 
-
 # ¿CÓMO REALIZAR EL EXAMEN?
 El proyecto que se os ha proporcionado contiene comentarios **// TODO numerados del 0 al 11** con las especificaciones de cada método a completar. 
 Revisad con atención toda la estructura del proyecto para no dejaros ninguna de las tareas por realizar.
+
+# ¿CÓMO SE REPARTE LA EVALUACIÓN DEL PROYECTO?
+
+|             | Criterios de evaluación - UT  |
+|-------------|-------------------------------|
+| // TODO 0:  | UT10                          |
+| // TODO 1:  | UT7                           |
+| // TODO 2:  | UT7                           |
+| // TODO 3:  | UT7                           |
+| // TODO 4:  | UT6                           |
+| // TODO 5:  | UT8-UT9-UT10                  |
+| // TODO 6:  | UT8-UT9-UT10                  |
+| // TODO 7:  | UT8-UT9-UT10                  |
+| // TODO 8:  | UT9                           |
+| // TODO 9:  | UT9                           |
+| // TODO 10: | UT8-UT9-UT10                  |
+| // TODO 11: | UT8-UT9-UT10                  |
+
+
 
