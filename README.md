@@ -12,7 +12,8 @@ El diagrama de clases del proyecto a realizar es el que se muestra en la siguien
 
 
 # ACLARACIONES IMPORTANTES
-  -	[ ] El tiempo máximo para realizar esta tarea es de X horas. La entrega se realizará en la plataforma Moodle, a las XXX del día X de mayo de 2023. **NO se admitirán reaperturas para realizar entregas fuera de ese plazo.** 
+  - [ ] El tiempo máximo para realizar esta tarea es de **4 horas y 30 minutos.** El examen comenzará a las 15h.
+  -	[ ] La entrega se realizará en la plataforma Moodle, a las <ins>**19:30h del miércoles 10 de mayo**</ins> de 2023. **NO se admitirán reaperturas para realizar entregas fuera de ese plazo.** 
   -	[ ] Se deberá de entregar el proyecto completo en una carpeta comprimida (formato .zip ó .rar) con vuestro nombre y apellidos.
   -	[ ] La carpeta contendrá el **proyecto completo** con el código que habréis implementado.
   -	[ ] Se corregirá utilizando la versión de **Java JDK 20.**
@@ -20,7 +21,7 @@ El diagrama de clases del proyecto a realizar es el que se muestra en la siguien
 # PUNTO DE PARTIDA
 Para la realización de este proyecto partiréis de un proyecto ya creado. NO tendréis que empezar un proyecto desde 0. Se os proporciona la estructura del mismo con la GUI ya creada. 
 El enlace para clonaros el proyecto en vuestros equipos es el siguiente:
-[title] 
+https://github.com/pauremirez/futbol_22_23
 
 
 # ¿CÓMO REALIZAR EL EXAMEN?
