@@ -1,7 +1,7 @@
 # OBJETIVO FINAL
 La evaluación consiste en realizar una aplicación, que contenga un interfaz gráfico de usuario, el cual se conecte a una Base de Datos MySQL para obtener la información.
 
-Con motivo del torno deportivo de la “Copa del Rey 2022-2023” de fútbol, el proyecto a realizar va a consistir en una pequeña aplicación de escritorio con la plantilla de los equipos que se enfrentaron en una de las semifinales de dicho campeonato.
+Con motivo del torneo deportivo de la “Copa del Rey 2022-2023” de fútbol, el proyecto a realizar va a consistir en una pequeña aplicación de escritorio con la plantilla de los equipos que se enfrentaron en una de las semifinales de dicho campeonato.
 
 El funcionamiento final esperado de la aplicación lo podéis visualizar en este enlace: 
 https://www.loom.com/share/a55de8b49c2c470aaa092e8401e1ffc5
